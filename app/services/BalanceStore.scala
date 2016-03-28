@@ -2,8 +2,6 @@ package services
 
 import javax.inject.{Inject, Singleton}
 
-import play.api.Logger
-
 /**
   * Simple in-memory store that keeps info about user balances
   */
